@@ -1,0 +1,8 @@
+{
+  "name": "mywherekaport",
+  "app_id": "632a8ec8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
